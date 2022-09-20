@@ -5,6 +5,8 @@ training:
     pages:
       - label: Iomete
         page: developer-portal/iomete.md
+      - label: Iomete2
+        page: developer-portal/iomete2.md
       - label: Setup
         page: developer-portal/setup.md
       - label: Markdown
