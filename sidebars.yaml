@@ -3,6 +3,8 @@ training:
   - group: Training exercises
     expanded: true
     pages:
+      - label: Iomete
+        page: developer-portal/iomete.md
       - label: Setup
         page: developer-portal/setup.md
       - label: Markdown
